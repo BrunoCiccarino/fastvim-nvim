@@ -114,11 +114,11 @@ Make sure to place this at the end of your configuration to avoid overwriting.
 
 ```lua
 -- Lua
-vim.cmd.colorscheme('fastvim.nvim')
+vim.cmd.colorscheme('fastvim')
 ```
 ```vim
 " Vim-Script
-colorscheme fastvim.nvim
+colorscheme fastvim
 ```
 
 To enable `fastvim.nvim` for `Lualine`:
@@ -128,7 +128,7 @@ To enable `fastvim.nvim` for `Lualine`:
 ```lua
 require('lualine').setup {
   options = {
-    theme = 'fastvim.nvim'
+    theme = 'fastvim'
     (...)
   },
 }
