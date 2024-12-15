@@ -1,5 +1,5 @@
 <h1 align="center">
-    fastvim-nvim❄️ 
+    fastvim.nvim❄️ 
 </h1>
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-**fastvim-nvim** | because like any good viking that loves gold, this colorscheme uses aurora yellow to highlight some of the more important tokens.
+**fastvim.nvim** | because like any good viking that loves gold, this colorscheme uses aurora yellow to highlight some of the more important tokens.
 </div>
 
 ## Plugin Support
@@ -95,17 +95,17 @@ use your favourite package manager:
 
 - [Lazy](https://github.com/folke/lazy.nvim)
 ```lua
-{ "BrunoCiccarino/fastvim-nvim", branch = "master", priority = 1000 }
+{ "BrunoCiccarino/fastvim.nvim", branch = "master", priority = 1000 }
 ```
 
 - [Vim-plug](https://github.com/junegunn/vim-plug)
 ```vim
-Plug 'BrunoCiccarino/fastvim-nvim'
+Plug 'BrunoCiccarino/fastvim.nvim'
 ```
 
 - [Packer](https://github.com/wbthomason/packer.nvim)
 ```lua
-use {'BrunoCiccarino/fastvim-nvim'}
+use {'BrunoCiccarino/fastvim.nvim'}
 ```
 
 ## ⛵ Use
@@ -114,21 +114,21 @@ Make sure to place this at the end of your configuration to avoid overwriting.
 
 ```lua
 -- Lua
-vim.cmd.colorscheme('fastvim-nvim')
+vim.cmd.colorscheme('fastvim.nvim')
 ```
 ```vim
 " Vim-Script
-colorscheme fastvim-nvim
+colorscheme fastvim.nvim
 ```
 
-To enable `fastvim-nvim` for `Lualine`:
+To enable `fastvim.nvim` for `Lualine`:
 
 #### Lualine
 
 ```lua
 require('lualine').setup {
   options = {
-    theme = 'fastvim-nvim'
+    theme = 'fastvim.nvim'
     (...)
   },
 }
@@ -169,7 +169,7 @@ OR
 
 ```lua
 config = function()
-    require('fastvim-nvim').setup({
+    require('fastvim.nvim').setup({
         brighter_comments = Boolean,
         brighter_conditionals = Boolean
         italic_comments = Boolean
@@ -188,5 +188,6 @@ This is my first try at making a neovim plugin. I want to thank [shaunsingh](htt
 - [gbprod/nord.nvim](https://github.com/gbprod/nord.nvim)
 - [arcticicestudio/nord-vim](https://github.com/arcticicestudio/nord-vim)
 - [edeneast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
+- [fcancelinha/nordern.nvim](https://github.com/fcancelinha/nordern.nvim)
 
 ----------------------------------------------------------------------------------------------------------------------
