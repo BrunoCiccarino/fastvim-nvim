@@ -10,10 +10,8 @@
 > [!NOTE]
 > This theme is an fork of norden theme, all rights reserved
 
-![dashboard](https://github.com/user-attachments/assets/8bd142a5-6bd5-4c72-9564-7862aa677563)
-![golang](https://github.com/user-attachments/assets/9b9cada4-5258-426c-93b9-1d9a4db3762e)
-![image](https://github.com/user-attachments/assets/c8666ea2-48d4-43a2-b7d8-1ed3dbb509f7)
-![image](https://github.com/user-attachments/assets/884f4339-ed3a-4ed1-a355-0afec8622d4d)
+![dashboard](./img/fastvim.nvim-theme.jpg)
+![theme](./img/fastvim.nvim.jpg)
 
 <div align="center">
 
