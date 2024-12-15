@@ -60,7 +60,7 @@
 - [ ] - C++
 - [ ] - JAVA
 - [ ] - Python
-- [ ] - Rust
+- [x] - Rust
 - [x] - Bash
 - [x] - CSS
 - [x] - Gitconfig
