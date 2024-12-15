@@ -2,7 +2,7 @@ local U = require("fastvim.utils")
 
 local colors = {
     none = "NONE",
-    bg = "##2E3440",
+    bg = "#2E3440",
     fg = "#ECEFF4",
     night = {
         c0 = "#2e3440",
