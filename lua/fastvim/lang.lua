@@ -1,4 +1,4 @@
-local C = require("fastvim-nvim.colors")
+local C = require("fastvim.colors")
 
 local L = {}
 
