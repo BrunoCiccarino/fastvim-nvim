@@ -109,6 +109,10 @@ local colors = {
 
   *missing languages will be supported upon popular request*
 
+- [ ] - Clojure
+- [ ] - Haskell
+- [ ] - Scala
+- [ ] - Zig
 - [ ] - JAVA
 - [ ] - Python
 - [x] - C++
@@ -220,7 +224,7 @@ OR
 
 ```lua
 config = function()
-    require('fastvim.nvim').setup({
+    require('fastvim').setup({
         brighter_comments = Boolean,
         brighter_conditionals = Boolean
         italic_comments = Boolean
