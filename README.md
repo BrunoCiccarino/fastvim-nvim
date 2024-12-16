@@ -55,8 +55,7 @@
 ## Palette 
 <details>
     ```lua 
-local colors = {
-    
+local colors = {    
     bg = "#2E3440",
     fg = "#ECEFF4",
     night = {
@@ -97,6 +96,7 @@ local colors = {
         light_blue = "#7AA1BE",
     },
 }
+    
     ```
 </details>
 
