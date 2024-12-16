@@ -109,7 +109,7 @@ local colors = {
 
 - [ ] - JAVA
 - [ ] - Python
-- [ ] - C++
+- [x] - C++
 - [x] - C
 - [x] - Rust
 - [x] - Bash
