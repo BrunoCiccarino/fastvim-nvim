@@ -26,11 +26,11 @@ local colors = {
         orange = "#d08770",
         purple = "#624E88",
         red    = "#bf616a",
-        yellow = "#F6F193",
+        yellow = "#ebcb8b",
     },
     blend = {
         red       = U.blend("#bf616a", "#2E3440", 0.1),
-        yellow    = U.blend("#F6F193", "#FDFFAB", 0.1),
+        yellow    = U.blend("#ebcb8b", "#2E3440", 0.1),
         green     = U.blend("#A1EEBD", "#8DB596", 0.1),
         turquoise = U.blend("#88c0d0", "#2E3440", 0.1),
         blue      = U.blend("#5e81ac", "#2E3440", 0.2),
