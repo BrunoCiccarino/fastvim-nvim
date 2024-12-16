@@ -12,6 +12,8 @@
 
 ![dashboard](./img/fastvim.nvim-theme.jpg)
 ![theme](./img/fastvim.nvim.jpg)
+![rust](./img/rustfastvim.jpg)
+![go](./img/gofastvim-theme.jpg)
 
 <div align="center">
 

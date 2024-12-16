@@ -17,7 +17,7 @@ local colors = {
     },
     frost = {
         blue       = "#5e81ac",
-        light_blue = "#81a1c1",
+        light_blue = "#8fbcbb",
         sea        = "#8fbcbb",
         turquoise  = "#88c0d0",
     },
