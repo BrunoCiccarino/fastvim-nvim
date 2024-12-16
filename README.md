@@ -107,10 +107,10 @@ local colors = {
 
   *missing languages will be supported upon popular request*
 
-- [ ] - C
-- [ ] - C++
 - [ ] - JAVA
 - [ ] - Python
+- [ ] - C++
+- [x] - C
 - [x] - Rust
 - [x] - Bash
 - [x] - CSS
