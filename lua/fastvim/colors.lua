@@ -24,7 +24,7 @@ local colors = {
     aurora = {
         green  = "#a3be8c",
         orange = "#d08770",
-        purple = "#624E88",
+        purple = "#C3B1E1",
         red    = "#bf616a",
         yellow = "#ebcb8b",
     },
