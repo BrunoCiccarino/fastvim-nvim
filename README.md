@@ -1,5 +1,5 @@
 <h1 align="center">
-    fastvim.nvim❄️ 
+    fastvim.nvim❄️  ![lua](https://github.com/BrunoCiccarino/BrunoCiccarino/blob/main/img/icons8-lua-language-96.png) 
 </h1>
 
 ![nord](https://img.shields.io/badge/nord-theme?style=for-the-badge&logo=lua&color=%232E3440) ![lua](https://img.shields.io/badge/lua-code?style=for-the-badge&logo=lua&color=%23789DBC) ![GitHub last commit](https://img.shields.io/github/last-commit/BrunoCiccarino/fastvim.nvim?style=for-the-badge&logo=lua&color=%238BCDCD) ![GitHub forks](https://img.shields.io/github/forks/BrunoCiccarino/fastvim.nvim?style=for-the-badge&logo=lua&color=%23a3be8c) ![GitHub Repo stars](https://img.shields.io/github/stars/BrunoCiccarino/fastvim.nvim?style=for-the-badge&logo=lua&color=%23624E88)
