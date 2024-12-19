@@ -9,7 +9,32 @@
 <br></br>
 </div>
 
-![dashboard](./img/perfectstorm.jpg)
+<table width="100%">
+  <tr>
+    <th>Dashboard</th>
+    <th>C</th>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="./img/perfectstorm.jpg" />
+    </td>
+    <td width="50%">
+      <img src="./img/stormc.jpg" />
+    </td>
+  </tr>
+  <tr>
+    <th>C++</th>
+    <th>Go</th>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="./img/stormcpp.jpg" />
+    </td>
+    <td width="50%">
+      <img src="./img/stormgo.jpg" />
+    </td>
+  </tr>
+</table>
 
 > [!NOTE]
 > This theme is an fork of norden theme, all rights reserved
