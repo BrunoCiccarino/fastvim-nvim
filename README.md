@@ -9,6 +9,8 @@
 <br></br>
 </div>
 
+![dashboard](./img/perfectstorm.jpg)
+
 > [!NOTE]
 > This theme is an fork of norden theme, all rights reserved
 
