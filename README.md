@@ -114,7 +114,7 @@ local colors = {
 - [ ] - Scala
 - [ ] - Zig
 - [ ] - JAVA
-- [ ] - Python
+- [x] - Python
 - [x] - C++
 - [x] - C
 - [x] - Rust
