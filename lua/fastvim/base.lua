@@ -1,3 +1,13 @@
+-- *******************************************************************************
+-- Name        : fastvim
+-- Description : Carefully crafted colorscheme for neovim in Lua, using arctic studio's palette choosing the warmer colors.
+-- Author      : @BrunoCiccarino https://github.com/BrunoCiccarino
+-- Website     : https://github.com/BrunoCiccarino/fastvim-nvim
+-- License     : GPL-3
+-- Year        : 2024
+-- ********************************************************************************
+
+
 local C = require("fastvim.colors")
 -- nvim_set_hl({ns_id}, {name}, {*val}) nvim_set_hl()Sets a highlight group.
 --
