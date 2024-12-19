@@ -5,18 +5,12 @@
 ![nord](https://img.shields.io/badge/nord-theme?style=for-the-badge&logo=lua&color=%232E3440) ![lua](https://img.shields.io/badge/lua-code?style=for-the-badge&logo=lua&color=%23789DBC) ![GitHub last commit](https://img.shields.io/github/last-commit/BrunoCiccarino/fastvim.nvim?style=for-the-badge&logo=lua&color=%238BCDCD) ![GitHub forks](https://img.shields.io/github/forks/BrunoCiccarino/fastvim.nvim?style=for-the-badge&logo=lua&color=%23a3be8c) ![GitHub Repo stars](https://img.shields.io/github/stars/BrunoCiccarino/fastvim.nvim?style=for-the-badge&logo=lua&color=%23624E88)
 
 <div align="center">
-    A carefully crafted nord colorscheme written in lua for fastvim distro using the <a href="https://www.nordtheme.com/docs/colors-and-palettes">Nord Palette</a>.
+    A carefully crafted colorscheme written in lua for fastvim distro using the <a href="https://www.nordtheme.com/docs/colors-and-palettes">Nord Palette</a>.
 <br></br>
 </div>
 
 > [!NOTE]
 > This theme is an fork of norden theme, all rights reserved
-
-![dashboard](./img/fastvim.nvim-theme.jpg)
-![theme](./img/fastvim.nvim.jpg)
-![rust](./img/rustfastvim.jpg)
-![go](./img/gofastvim-theme.jpg)
-![c](./img/cfastvim.jpg)
 
 <div align="center">
 
@@ -59,11 +53,11 @@
 <details>
     ```lua 
 local colors = {    
-    bg = "#2E3440",
+    bg = "#1a1b26",
     fg = "#ECEFF4",
     night = {
-        c0 = "#2e3440",
-        c1 = "#3b4252",
+        c0 = "#16161e",
+        c1 = "#0C0E14",
         c2 = "#434c5e",
         c3 = "#4c566a",
     },
