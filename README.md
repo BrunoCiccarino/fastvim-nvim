@@ -53,11 +53,11 @@
 <details>
     ```lua 
 local colors = {    
-    bg = "#1a1b26",
+    bg = "#24283b",
     fg = "#ECEFF4",
     night = {
-        c0 = "#16161e",
-        c1 = "#0C0E14",
+        c0 = "#1f2335",
+        c1 = "#1b1e2d",
         c2 = "#434c5e",
         c3 = "#4c566a",
     },
